@@ -66,3 +66,44 @@ When showcasing to stakeholders or clients for final approval.
 Accurate layout, fonts, and visual styles
 Can simulate user interaction (e.g., click-through prototypes).
 Typically created using advanced tools like Figma, Adobe XD, or Sketch.
+
+# Popular Wireframing Tools
+
+Choosing the right tool for wireframing can greatly enhance your design process. Different tools offer different features depending on the level of fidelity, collaboration needs, and prototyping capabilities.
+
+Here are some widely used wireframing tools:
+🔹 Balsamiq
+Best for low-fidelity wireframes
+Drag-and-drop interface with hand-drawn style
+Great for quick brainstorming and early-stage design
+
+🔹 Adobe XD
+Supports both wireframing and high-fidelity UI design
+Offers prototyping and animations
+Good integration with other Adobe tools
+
+🔹 Sketch (macOS only)
+Popular among UI/UX designers
+Great for designing high-fidelity static interfaces
+Lightweight and fast for Apple users
+
+🔹 Lucidchart / draw.io
+Ideal for flowcharts and basic wireframes
+Good for planning use cases and system diagrams
+Browser-based with collaboration features
+
+⭐ Recommended Tool: Figma
+Figma is one of the most powerful and widely used tools for wireframing, prototyping, and collaborative design work.
+
+🚀 Key Features:
+Web-based and cross-platform – No need for installation; works in your browser.
+Real-time collaboration – Multiple team members can edit the same file simultaneously, just like Google Docs.
+Component system – Reuse design elements to maintain consistency and save time.
+Plugins and templates – Extend functionality and speed up your workflow.
+Prototyping and animation – Create interactive mockups to simulate user interactions.
+
+🎯 Why Figma is Great for Wireframing:
+Beginner-friendly with a clean UI and drag-and-drop components.
+Supports both low-fidelity sketches and high-fidelity UI designs in one platform.
+Makes it easy to share designs with stakeholders using just a link.
+Ideal for teams using Agile or iterative design approaches.
