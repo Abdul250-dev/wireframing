@@ -167,3 +167,37 @@ Speeds up development
 Improves product quality
 
 Used well, wireframes help turn ideas into well-scoped, buildable features—faster and more efficiently.
+
+# Real-World Scenario: Identifying Usability Issues Through Wireframing
+📍 The Project:
+A team was building an Airbnb-style Booking Management System with features for Guests to search, book, and manage stays, and for Hosts to list and manage properties.
+
+🚩 The Problem Discovered During Wireframing:
+During the wireframing phase, the team created low-fidelity wireframes showing the booking process. One wireframe showed a multi-step checkout form where Guests entered:
+
+Personal details
+Payment information
+Confirmation
+While reviewing the wireframe with testers and a UX designer, a major issue was identified:
+❗ The "Back" button on Step 2 (Payment) was labeled "Cancel", which users misinterpreted as canceling the entire booking process rather than going back to the previous step.
+Additionally, the total booking cost was only shown at the final confirmation step, leaving users uncertain about pricing during earlier steps.
+
+🛠️ How the Issues Were Resolved:
+The button label was changed from "Cancel" to "Back to Details", making the user flow clearer and reducing accidental drop-offs.
+A persistent booking summary panel was added to all checkout steps, showing the property, dates, guest count, and total price.
+These changes were implemented in the updated wireframe and validated with test users before development began.
+
+✅ The Outcome:
+User confusion during checkout dropped significantly in later user testing.
+Developers had a clearer UI flow to follow, reducing frontend rework.
+The final product had a cleaner, more intuitive checkout experience, boosting completion rates.
+
+🧭 Conclusion: The Role of Wireframing in Creating User-Friendly Design
+This scenario highlights how wireframing is more than just visual planning—it's a critical thinking tool that helps uncover usability problems before time and resources are invested in development.
+
+By validating ideas early, wireframing:
+Saves development time and cost
+Improves user satisfaction
+Aligns stakeholders and teams
+Encourages feedback-driven iteration
+Ultimately, wireframing ensures the product is built for real users, not just business requirements—making it a cornerstone of user-centered design.
